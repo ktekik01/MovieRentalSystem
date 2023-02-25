@@ -1,0 +1,3 @@
+C:/Users/KEREM/CLionProjects/MovieRentalSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KEREM/CLionProjects/MovieRentalSystem/cmake-build-debug/CMakeFiles/MovieRentalSystem.dir
+C:/Users/KEREM/CLionProjects/MovieRentalSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
